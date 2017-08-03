@@ -345,9 +345,7 @@ button:hover .fa{
         padding-right: 25px;
         
     }
-   /* #section_2 .service_des{
-    display:block;
-}*/
+
 }
 @media(max-width:640px){
     #section_2 h1{
@@ -502,10 +500,10 @@ button:hover .fa{
     -o-transition: all 0.9s ease-in;
     -webkit-transition: all 0.9s ease-in;
     transition: all 0.9s ease-in;
-    -moz-transform: scale(0) translatex(-40px) translatey(40px);
-    -ms-transform:scale(0)  translatex(-40px) translatey(40px);
-    -o-transform: scale(0) translatex(-40px) translatey(40px);
-    -webkit-transform: scale(0) translatex(-40px) translatey(40px);
+    -moz-transform: scale(0) translatex(40px) translatey(40px);
+    -ms-transform:scale(0)  translatex(40px) translatey(40px);
+    -o-transform: scale(0) translatex(40px) translatey(40px);
+    -webkit-transform: scale(0) translatex(40px) translatey(40px);
     transform: scale(0)translatex(40px) translatey(40px);
     font-size: 30px;
 }
