@@ -627,6 +627,14 @@ button:hover .fa{
     -ms-transform: rotate(360deg) scale(1.5);
     transform: rotate(360deg) scale(1.5);
 }
+@media(max-width:992px){
+    .col-sm-4{
+        padding: 0px;
+    }
+    #section_6 .row{
+        padding-left: 11%;
+    }
+}
 @media(max-width:767px){
     #section_6 .row{
         padding-left: 40%;
