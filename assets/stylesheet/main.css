@@ -644,6 +644,15 @@ button:hover .fa{
     #section_6 h1{
         margin-left: 90px;
     }
+      #section_6 .icon{
+        width: 140px;
+        height: 120px;
+        margin: 0 0px 57px 10px;
+        padding: 9px;
+    }
+    #section_6 .fa{
+        font-size: 92px;
+    }
 }
 @media(max-width:360px){
     #section_6 .row{
